@@ -113,7 +113,7 @@ ia abandonned abandoned
 ia Abandonned Abandoned
 ia aberation aberration
 ia Aberation Aberration
-ia abilties abilities
+ia abilities abilities
 ia Abilties Abilities
 ia abilty ability
 ia Abilty Ability

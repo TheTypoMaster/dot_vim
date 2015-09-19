@@ -127,7 +127,7 @@ ia abondons abandons
 ia Abondons Abandons
 ia aborigene aborigine
 ia Aborigene Aborigine
-ia abortificant abortifacient
+ia abortifacient abortifacient
 ia Abortificant Abortifacient
 ia abreviated abbreviated
 ia Abreviated Abbreviated
